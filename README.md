@@ -107,5 +107,3 @@ ORDER BY doanh_thu DESC;
 ```
 *(Mẹo: Bấm mũi tên ⬆️ và `Enter` liên tục để cập nhật Dashboard số liệu mới nhất).*
 ```
-
-Bạn sao chép toàn bộ khối ở trên dán vào là đầy đủ không sót một chữ nào nhé!
